@@ -1,2 +1,1 @@
-# AyushKumar15082001.github.io
-This repository is for profile readme...
+# Hi! My name is Ayush Kumar
