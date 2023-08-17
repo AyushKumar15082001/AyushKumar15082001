@@ -18,8 +18,8 @@
 
 <br clear="both">
 
-- 👨‍💻 Check out my portfolio [https://ayush15.netlify.app/](https://ayush15.netlify.app/)<br>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
+####  👨‍💻 Check out my portfolio [https://ayush15.netlify.app/](https://ayush15.netlify.app/)<br>
+#### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
 
 ###
 
@@ -34,10 +34,10 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
+  <a href="https://linkedin.com/in/ayushkumar1508" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="maito:ayush.k1501@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.hackerrank.com/ayush_kumar_15" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+</div></a>
 
 ###
 
