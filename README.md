@@ -17,19 +17,18 @@
 ###
 
 <br clear="both">
+<img align="right" height="200" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif"  />
 
-####  👨‍💻 Check out my portfolio [https://ayush15.netlify.app/](https://ayush15.netlify.app/)<br>
-#### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
+###  👨‍💻 Check out my portfolio [https://ayush15.netlify.app/](https://ayush15.netlify.app/)<br>
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://www.bing.com/th/id/OGC.1ca74946ed770bb635e4de4711bd861f?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f214929%2fscreenshots%2f4366947%2fdribbble-shot_6.gif&ehk=ZUs%2bqHQx267enBhJIqyO4FQ5bSKhMKPpx%2f50t7yD16E%3d"  />
-
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -43,7 +42,7 @@
 
 <br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -84,6 +83,12 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /></a>
   <img width="12" />
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  /></a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://leetcode.com/Ayushkumar1508/" target="_blank" rel="noreferrer"><img src="https://leetcode-stats-six.vercel.app/?username=ayushkumar1508&theme=dark" height="200" alt="Ayush's LeetCode stats"  /></a>
 </div>
 
 ###
