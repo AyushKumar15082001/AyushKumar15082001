@@ -1,8 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="370" src="https://github.com/AyushKumar15082001/AyushKumar15082001/assets/118304566/df649d65-9acf-4212-bfdc-80dd43a71e0d"  />
-</div>
+[![MasterHead](https://github.com/AyushKumar15082001/AyushKumar15082001/blob/main/images/development_gif.gif)](https://ayush15.netlify.app)
 
 ###
 
