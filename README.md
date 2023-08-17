@@ -23,11 +23,7 @@
 ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
 
 ###
-
-<br clear="both">
-
-###
-
+<br>
 <h2 align="left">🔗Connect with me:</h2>
 
 ###
