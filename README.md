@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🔗Connect with me:</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🧑🏽‍💻Languages & Tools:</h2>
 
 ###
 
@@ -84,6 +84,12 @@
   <img width="12" />
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  /></a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📈My Stats:</h2>
 
 ###
 
