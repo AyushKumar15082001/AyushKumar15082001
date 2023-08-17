@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif"  />
+  <img height="370" src="https://github.com/AyushKumar15082001/AyushKumar15082001/assets/118304566/df649d65-9acf-4212-bfdc-80dd43a71e0d"  />
 </div>
 
 ###
