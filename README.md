@@ -106,7 +106,7 @@
 
 ###
 
-<img src="https://github.com/AyushKumar15082001/AyushKumar15082001/blob/output/snake.svg" alt="Snake animation" />
+<div align="center"><img src="https://github.com/AyushKumar15082001/AyushKumar15082001/blob/output/snake.svg" alt="Snake animation" /></div>
 
 ###
 
