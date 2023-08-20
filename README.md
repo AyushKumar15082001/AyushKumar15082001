@@ -78,7 +78,7 @@
   <img width="12" />
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /></a>
   <img width="12" />
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  /></a>
 </div>
 
 ###
