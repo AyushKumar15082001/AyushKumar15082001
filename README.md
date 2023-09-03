@@ -20,7 +20,7 @@
 <img align="right" height="200" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif"  />
 
 ###  👨‍💻 Check out my portfolio [https://ayush15.netlify.app/](https://ayush15.netlify.app/)<br>
-### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ifd-oL_O2uiZivVwFR-veN1e39M2e9zj/view?usp=sharing)
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AWIBSRYwNzUFpyo5hVpge6htes1gHdPw/view?usp=sharing)
 
 ###
 <br>
